@@ -15,8 +15,8 @@
 ;hcal_adcrefcut=-2500.
 
 ;J/Psi coin daq
-hdc_tdcrefcut=-17100.
-hhodo_tdcrefcut=-4000.
-hhodo_adcrefcut=-6300.
-hcer_adcrefcut=-6300.
-hcal_adcrefcut=-6300.
+hdc_tdcrefcut=-16000.
+hhodo_tdcrefcut=-3200.
+hhodo_adcrefcut=-5000.
+hcer_adcrefcut=-5000.
+hcal_adcrefcut=-5000.

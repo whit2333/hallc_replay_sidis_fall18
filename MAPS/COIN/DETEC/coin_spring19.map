@@ -3789,6 +3789,8 @@ SLOT=18
 REFINDEX=2
   11,1000,   0,   2  ! hFADC_TREF_ROC1
   11,   1,   9,   0  ! hFADC_TREF_ROC1
+   6,   1,  20,   0  ! hRF_FADC
+
 
 SLOT=2
 REFINDEX=0
@@ -3867,6 +3869,10 @@ SLOT=2
   127,  2,  111,  1  ! hDCREF5
 
 ROC=2
+
+SLOT=10
+REFINDEX=5
+   9,   1,  21,   0  ! pRF_FADC
 
 SLOT=14
 REFINDEX=5
