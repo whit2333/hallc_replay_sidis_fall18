@@ -32,3 +32,7 @@ hcer_adc_tdc_offset= 0.
 ;Carlos. Determined from Run JPSi Coin Run 7221.  Feb 16, 2019
 hcer_adcTimeWindowMin =   80.,  80.
 hcer_adcTimeWindowMax =  180., 180.
+
+;; fall
+;hcer_adcTimeWindowMin =  77.2, 80.0
+;hcer_adcTimeWindowMax = 132.2, 135.0
