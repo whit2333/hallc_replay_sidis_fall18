@@ -49,7 +49,7 @@
 
 
 ;Run 6263,6359
-pdc_tdcrefcut=-15500.
+pdc_tdcrefcut=-15000.
 phodo_tdcrefcut=-4300.
 phodo_adcrefcut=-5500.
 pngcer_adcrefcut=-5500.
