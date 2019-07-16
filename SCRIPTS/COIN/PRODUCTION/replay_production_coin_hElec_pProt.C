@@ -1,4 +1,4 @@
-void replay_production_coin_hElec_pProt (Int_t RunNumber = 0, Int_t MaxEvent = 0) {
+kvoid replay_production_coin_hElec_pProt (Int_t RunNumber = 0, Int_t MaxEvent = 0) {
 
   // Get RunNumber and MaxEvent if not provided.
   if(RunNumber == 0) {
